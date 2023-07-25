@@ -2,10 +2,11 @@
 
 (Under construction)
 
-
-Find here all the rules of the chat of this channel.
-
-In future version of the stream if it works, you will need to write "I accept the rules" in chat to validate that you accept the conditions write here.
+  
+Find here all the rules of the chat of this channel.  
+  
+In future version of the stream if it works, you will need to write "I accept the rules" in chat to validate that you accept the conditions write here.  
+You accept them by default if you play to the chat on out stream for the moment.  
 
 
 Rules, the basic:
