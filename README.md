@@ -1,5 +1,9 @@
 # Chat General Rules
 
+Simple:
+- Be respectful to one another
+- Have a great time
+
 Two main topic:
 - We can't control what is said in the chat. We are not responsible of what you said on it. It is a public chat. So the law apply to every think you say on it. You have an alias on the chat but the platform and the police can easily find you if they want to find you. Don't be stupid and be kind with other.
 - By the fact that our chat game works with real keystroke a player can always try to break the device or kill the game (We will work on that and perma ban troll while we find a solution.)
