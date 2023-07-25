@@ -25,4 +25,4 @@ Rules, Twitch Play:
   - Every kick is monitor by a human after the stream to set action on the kick user if needed or the reporter if it is not justify 
   
 _We will try to code some screen detector for console and thread detector for Window to stop the chat control when someone is doing it. But trying to by pass it or be clever on this topic is a perma-ban for all people implied in the action no question asked.  I hope you understand that "sabotage in game" is fun but "sabotage out game" is not what we want for the fun the community.
-By the fact that we use macro and keyboard command, there are always a wait to kill the fun and kill the device. _
+By the fact that we use macro and keyboard command, there are always a wait to kill the fun and kill the device._
