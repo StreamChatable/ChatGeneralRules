@@ -11,6 +11,7 @@ You accept them by default if you play to the chat on out stream for the moment.
 
 Rules, the basic:
 - you are more then welcome to hack the stream as soon as it is to help us make it stronger.
+  - But you need to contact us as soon as you find the hack to help us fix the issue (Thank) 
 - respect the classic rules that are given by other streamer: no nudity, no out low comment, no nazi, no racism ...
   - if your comment is punishable by law or by the stream platform, we will share your id to the requesting authority.
   - all stream chat are recorded on a pc to be able to react post stream.
